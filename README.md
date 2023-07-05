@@ -7,4 +7,5 @@
 ## 运行
 `python main.py`  
 
-*<font size=4>如果觉得对你有帮助的话 请给我一个免费的star。谢谢！</font>*
+<font size=5>如果觉得对你有所帮助的话<br>请给我一个小小的star。谢谢！<br>如果不明白的地方欢迎随时提问。</font>  
+bilibili：[爱睡觉的波比鸭](https://space.bilibili.com/57254257?spm_id_from=333.337.0.0) **:point_left:**
