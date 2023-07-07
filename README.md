@@ -2,7 +2,7 @@
 此工具是针对[![icon](https://www.hifini.com/favicon.ico)***HiFiNi-音乐磁场***](https://www.hifini.com/) 快捷下载音乐到本地制作的爬虫工具
 
 ## 安装依赖
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 ## 运行
 `python main.py`  
